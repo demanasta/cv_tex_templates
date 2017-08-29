@@ -701,6 +701,11 @@
 
 }
 
+\newcommand{\cvitem01}[3]{
+\begin{tabular}{rp{14cm}}
+ \textsc{#2} & {#3}\\
+\end{tabular}
+}
 
 
 
